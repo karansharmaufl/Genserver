@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GOSSIP
 
 **TODO: Add description**
@@ -19,3 +20,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/gossip_simulator](https://hexdocs.pm/gossip_simulator).
 
+=======
+# Genserver
+This is a client server architecture implementation using GenServer framework of Elixir.
+>>>>>>> c6230373de15761c7a1e3f3b8dd6025fbe4e94fe
